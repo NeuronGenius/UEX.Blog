@@ -5,6 +5,6 @@
 ### Web
 * <a href="//github.com/NeuronGenius/client/issues/1">初探Recompose</a>
 ### linux
-
+* <a href="//github.com/NeuronGenius/UEX.Blog/issues/3">树莓派安装centos7系统</a>
 ### Macos
 
