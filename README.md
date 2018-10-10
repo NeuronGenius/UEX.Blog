@@ -8,6 +8,9 @@
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/2">初探 Recompose</a>
 
+### Web安全
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">c初识web安全之XSS与CSRF</a>
+
 ### Node.js
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/1">Node.js 的 Path 方法总结</a>
