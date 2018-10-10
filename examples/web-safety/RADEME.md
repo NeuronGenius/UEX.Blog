@@ -23,10 +23,7 @@
 <script>while(true){alert(‘来啊，造作啊！’)}</script> //如下图
 
 ```
-
-![1539184911561](C:\Users\JAMESX~1\AppData\Local\Temp\1539184911561.png)
-
-![1539184994661](C:\Users\JAMESX~1\AppData\Local\Temp\1539184994661.png)
+![web-xss](https://user-images.githubusercontent.com/23492904/46751045-0b602a80-ccec-11e8-9c79-3a1d54313baa.png)
 
 ##### 1.4、XSS攻击的防御 
 
@@ -83,8 +80,7 @@ CSRF通常是由XSS实现的，本质上讲，XSS是因为输入的内容被恶�
 --threads=0~10 //开启多线程模式
 
 ##### 3.2、 WebRobot，作用进行端口扫描，C段，注入扫描等 
-
-![1539186211264](C:\Users\JAMESX~1\AppData\Local\Temp\1539186211264.png)
+![webroot](https://user-images.githubusercontent.com/23492904/46751238-7dd10a80-ccec-11e8-9e3a-3be214f32f04.png)
 
 ##### 4、小惊喜
 
