@@ -6,7 +6,7 @@
 
 ### Web
 
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/2">初探 Recompose</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/5">初探 Recompose</a>
 
 ### Web安全
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">初识web安全之XSS与CSRF</a>
