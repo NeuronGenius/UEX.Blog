@@ -6,17 +6,19 @@
 
 ### Web
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/5">初探 Recompose</a>
-- <a href="//github.com/NeuronGenius/client/issues/2">codewars 验证三角形</a>
-- <a href="//github.com/NeuronGenius/client/issues/6">codewars 字符串数字排序</a>
+
 ### Web安全
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">初识web安全之XSS与CSRF</a>
 
 ### Node.js
-
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/1">Node.js 的 Path 方法总结</a>
 
-### linux
+### Linux
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/3">树莓派安装 centos7 系统</a>
 
 ### Macos
+
+### Codewars
+- <a href="//github.com/NeuronGenius/client/issues/2">Codewars 验证三角形</a>
+- <a href="//github.com/NeuronGenius/client/issues/6">Codewars 字符串数字排序</a>
