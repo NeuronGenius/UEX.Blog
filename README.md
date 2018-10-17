@@ -5,6 +5,7 @@
 ### Web
 * <a href="//github.com/NeuronGenius/client/issues/1">初探Recompose</a>
 * <a href="//github.com/NeuronGenius/client/issues/2">codewars 验证三角形</a>
+* <a href="//github.com/NeuronGenius/client/issues/6">codewars 字符串数字排序</a>
 ### linux
 
 ### Macos
