@@ -1,0 +1,18 @@
+/*
+ * @Author: liyang 
+ * @Date: 2018-10-20 01:38:46 
+ * @Last Modified by:   liyang 
+ * @Last Modified time: 2018-10-21 11:38:46 
+ */
+button {
+  display: block;
+  margin:20px;
+  background: #396;
+  padding: 20px;
+  outline: none;
+  color:#fff;
+  border:none;
+  box-shadow: 0 0 10px rgba(0,0,0,.2);
+  font-size:16px;
+  border-radius: 5px;
+}

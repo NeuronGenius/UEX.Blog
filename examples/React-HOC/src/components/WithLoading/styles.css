@@ -1,0 +1,17 @@
+/*
+ * @Author: liyang 
+ * @Date: 2018-10-20 22:22:34 
+ * @Last Modified by: liyang
+ * @Last Modified time: 2018-10-21 16:11:55
+ */
+.loading {
+  font-size: 40px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
