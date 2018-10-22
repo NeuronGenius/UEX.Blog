@@ -25,4 +25,4 @@
 - <a href="//github.com/NeuronGenius/client/issues/2">Codewars 验证三角形</a>
 - <a href="//github.com/NeuronGenius/client/issues/6">Codewars 字符串数字排序</a>
 - <a href="//github.com/NeuronGenius/client/issues/10">Codewars 种类名称加一 </a>
-- <a href="//github.com/NeuronGenius/client/issues/7">Codewars 括号匹配 </a> 
+- <a href="//github.com/NeuronGenius/client/issues/8">Codewars 括号匹配 </a> 
