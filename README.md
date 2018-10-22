@@ -21,6 +21,9 @@
 
 ### Macos
 
+### 测试
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/13">前端自动化测试简介（一）</a>
+
 ### Codewars
 - <a href="//github.com/NeuronGenius/client/issues/2">Codewars 验证三角形</a>
 - <a href="//github.com/NeuronGenius/client/issues/6">Codewars 字符串数字排序</a>
