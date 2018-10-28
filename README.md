@@ -8,6 +8,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/5">初探 Recompose</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/7">初始 React 高阶组件</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/16">前端各种循环用法总结</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/18">老生常谈的EventLoop</a>
 
 ### Web安全
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">初识web安全之XSS与CSRF</a>
