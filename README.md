@@ -10,6 +10,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/16">前端各种循环用法总结</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/18">老生常谈的EventLoop</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/19">设计模式—javascript单例模式</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/20">常见的javascript设计模式</a>
 
 ### Web安全
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">初识web安全之XSS与CSRF</a>
