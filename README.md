@@ -34,3 +34,4 @@
 - <a href="//github.com/NeuronGenius/client/issues/10">Codewars 种类名称加一 </a>
 - <a href="//github.com/NeuronGenius/client/issues/8">Codewars 括号匹配 </a> 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/17">Codewars 数位总和 </a> 
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/21">Codewars 之Greed is Good</a> 
