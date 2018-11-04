@@ -37,3 +37,4 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/21">Codewars 之Greed is Good</a> 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/23">Codewars 求数组最大连续子序列之和</a> 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/24">Codewars 之Find the odd int</a> 
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/25">Codewars 之 Write Number in Expanded Form</a> 
