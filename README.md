@@ -29,9 +29,9 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/13">前端自动化测试简介（一）</a>
 
 ### Codewars
-- <a href="//github.com/NeuronGenius/client/issues/2">Codewars 验证三角形</a>
 - <a href="//github.com/NeuronGenius/client/issues/6">Codewars 字符串数字排序</a>
 - <a href="//github.com/NeuronGenius/client/issues/10">Codewars 种类名称加一 </a>
 - <a href="//github.com/NeuronGenius/client/issues/8">Codewars 括号匹配 </a> 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/17">Codewars 数位总和 </a> 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/21">Codewars 之Greed is Good</a> 
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/23">Codewars 求数组最大连续子序列之和</a> 
