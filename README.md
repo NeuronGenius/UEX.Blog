@@ -9,12 +9,12 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/5">初探 Recompose</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/7">初始 React 高阶组件</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/16">前端各种循环用法总结</a>
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/18">老生常谈的EventLoop</a>
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/19">设计模式—javascript单例模式</a>
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/20">常见的javascript设计模式</a>
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/22">ES6 关于Promise那些事</a>
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/27">js中callee、caller、apply、call、bind的用法与区别</a>
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/28">浅谈js中的继承和原型</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/18">老生常谈的 EventLoop</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/19">设计模式—javascript 单例模式</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/20">常见的 javascript 设计模式</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/22">ES6 关于 Promise 那些事</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/27">js 中 callee、caller、apply、call、bind 的用法与区别</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/28">浅谈 js 中的继承和原型</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/31">Generator</a>
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">初识 web 安全之 XSS 与 CSRF</a>
@@ -22,15 +22,17 @@
 ### Node.js
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/1">Node.js 的 Path 方法总结</a>
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/12">npm包管理工具的使用</a>
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/26">打造属于自己的node cli工具(1) </a>
-- <a href="https://github.com/NeuronGenius/UEX.Blog/issues/30">打造属于自己的node cli工具(2)</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/12">npm 包管理工具的使用</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/26">打造属于自己的 node cli 工具(1) </a>
+- <a href="https://github.com/NeuronGenius/UEX.Blog/issues/30">打造属于自己的 node cli 工具(2)</a>
 
 ### Linux
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/3">树莓派安装 centos7 系统</a>
 
-### Macos
+### MacOS
+
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/32">初尝黑苹果（一）</a>
 
 ### 测试
 
@@ -47,7 +49,3 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/23">Codewars 求数组最大连续子序列之和</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/24">Codewars 之 Find the odd int</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/25">Codewars 之 Write Number in Expanded Form</a>
-
-### MacOS
-
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/32">初尝黑苹果（一）</a>
