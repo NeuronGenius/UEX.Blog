@@ -31,7 +31,7 @@
 
 ### 测试
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/13">前端自动化测试简介（一）</a>
-
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/29">Jest + Enzyme 实现一个单元测试</a>
 ### Codewars
 - <a href="//github.com/NeuronGenius/client/issues/6">Codewars 字符串数字排序</a>
 - <a href="//github.com/NeuronGenius/client/issues/10">Codewars 种类名称加一 </a>

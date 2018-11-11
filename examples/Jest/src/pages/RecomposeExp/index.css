@@ -1,0 +1,15 @@
+.recomposeExp {
+    width: 800px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 20px;
+    bottom: 20px;
+    margin: auto;
+
+}.ml-10 {
+    margin-left: 10px
+}
+.title {
+    color: red;
+}

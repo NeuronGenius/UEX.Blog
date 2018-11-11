@@ -1,0 +1,12 @@
+
+.itemList {
+    padding: 10px;
+    flex: 1;
+    height: calc(100vh - 140px);
+    flex-wrap: wrap;
+    display: flex;
+    > div {
+        width: 200px;
+        margin: 10px;
+    }
+}
