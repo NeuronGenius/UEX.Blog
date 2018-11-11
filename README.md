@@ -22,6 +22,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/1">Node.js 的 Path 方法总结</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/12">npm包管理工具的使用</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/26">打造属于自己的node cli工具(1) </a>
+- <a href="https://github.com/NeuronGenius/UEX.Blog/issues/30">打造属于自己的node cli工具(2)</a>
 
 ### Linux
 
