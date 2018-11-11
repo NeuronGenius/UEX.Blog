@@ -12,6 +12,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/19">设计模式—javascript单例模式</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/20">常见的javascript设计模式</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/22">ES6 关于Promise那些事</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/27">js中callee、caller、apply、call、bind的用法与区别</a>
 
 ### Web安全
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">初识web安全之XSS与CSRF</a>
