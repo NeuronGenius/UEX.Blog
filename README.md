@@ -14,6 +14,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/22">ES6 关于Promise那些事</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/27">js中callee、caller、apply、call、bind的用法与区别</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/28">浅谈js中的继承和原型</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/31">Generator</a>
 
 ### Web安全
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">初识web安全之XSS与CSRF</a>
