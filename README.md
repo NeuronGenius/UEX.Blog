@@ -36,8 +36,13 @@
 
 ### 测试
 
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/13">前端自动化测试简介（一）</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/13">前端自动化测试简介</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/29">Jest + Enzyme 实现一个单元测试</a>
+
+
+### Nginx
+
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/33">Nginx初体验（一）</a>
 
 ### Codewars
 
