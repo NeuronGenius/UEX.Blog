@@ -1,0 +1,15 @@
+/*
+ * @Author: liyang 
+ * @Date: 2018-10-20 01:22:34 
+ * @Last Modified by: liyang
+ * @Last Modified time: 2018-10-21 16:10:33
+ */
+.header {
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  background: #396;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
