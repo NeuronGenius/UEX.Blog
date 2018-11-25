@@ -18,6 +18,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/31">Generator</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">初识 web 安全之 XSS 与 CSRF</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/36">CSS Grid布局</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/37">React常用组件模式</a>
 
 ### App
 
