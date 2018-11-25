@@ -25,6 +25,7 @@
 ### App
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/34">Flutter 系列（一）—— 初识 Flutter</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/42">Flutter 系列（二）—— Dart 入门</a>
 
 ### Node.js
 
