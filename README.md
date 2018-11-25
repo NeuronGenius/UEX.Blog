@@ -19,6 +19,8 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">初识 web 安全之 XSS 与 CSRF</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/36">CSS Grid布局</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/37">React常用组件模式</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/38">web端SEO简介</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/39">常用的几个排序算法</a>
 
 ### App
 
