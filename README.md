@@ -49,6 +49,8 @@
 ### Nginx
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/33">Nginx 初体验（一）</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/40">Nginx 初体验（二）</a>
+
 
 ### 可视化
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/35">初识web可视化之threeJS (一)</a>
