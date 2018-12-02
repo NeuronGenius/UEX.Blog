@@ -11,6 +11,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/16">前端各种循环用法总结</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/18">老生常谈的 EventLoop</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/19">设计模式—javascript 单例模式</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/46">设计模式之单例模式(TS)</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/20">常见的 javascript 设计模式</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/22">ES6 关于 Promise 那些事</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/27">js 中 callee、caller、apply、call、bind 的用法与区别</a>
