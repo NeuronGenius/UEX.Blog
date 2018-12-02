@@ -6,8 +6,6 @@
 
 ### Web
 
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/5">初探 Recompose</a>
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/7">初始 React 高阶组件</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/16">前端各种循环用法总结</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/18">老生常谈的 EventLoop</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/19">设计模式—javascript 单例模式</a>
@@ -18,11 +16,16 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/31">Generator</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/4">初识 web 安全之 XSS 与 CSRF</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/36">CSS Grid布局</a>
-- <a href="//github.com/NeuronGenius/UEX.Blog/issues/37">React常用组件模式</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/38">web端SEO简介</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/39">常用的几个排序算法</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/44">理解Promise和Async</a>
+
+### React
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/5">初探 Recompose</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/7">初始 React 高阶组件</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/37">React常用组件模式</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/45">React + Next.js + antd-mobile 服务端渲染实践</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/48">react新生命周期的使用</a>
 
 ### App
 
