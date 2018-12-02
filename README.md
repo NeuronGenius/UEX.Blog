@@ -20,6 +20,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/38">web端SEO简介</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/39">常用的几个排序算法</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/44">理解Promise和Async</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/49">js之window对象</a>
 
 ### React
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/5">初探 Recompose</a>
