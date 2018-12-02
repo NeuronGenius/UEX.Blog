@@ -22,6 +22,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/38">web端SEO简介</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/39">常用的几个排序算法</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/44">理解Promise和Async</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/45">React + Next.js + antd-mobile 服务端渲染实践</a>
 
 ### App
 
