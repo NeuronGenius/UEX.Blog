@@ -21,7 +21,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/39">常用的几个排序算法</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/44">理解Promise和Async</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/49">js之window对象</a>
-
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/51">ES6之Proxy</a>
 ### React
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/5">初探 Recompose</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/7">初始 React 高阶组件</a>
