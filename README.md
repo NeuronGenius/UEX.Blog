@@ -49,6 +49,9 @@
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/32">初尝黑苹果（一）</a>
 
+### Windows
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/53">nssm在windows上部署nodejs项目</a>
+
 ### 测试
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/13">前端自动化测试简介</a>
@@ -64,6 +67,9 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/35">初识web可视化之threeJS (一)</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/41">初识web可视化之threeJS (二)</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/50">初识web可视化之threeJS (三)</a>
+
+### Mongodb
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/47">Mongodb的内存回收办法</a>
 
 ### Codewars
 
