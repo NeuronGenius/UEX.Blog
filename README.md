@@ -5,7 +5,7 @@
 #### 其中 UE 是 User End 的缩写，X 代表我们在前端领域之外，更加重视前端工程师在横向（全端）以及纵向（全栈）的能力
 
 ### Web
-
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/55">模块化语法理解</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/16">前端各种循环用法总结</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/18">老生常谈的 EventLoop</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/19">设计模式—javascript 单例模式</a>
