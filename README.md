@@ -68,6 +68,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/35">初识web可视化之threeJS (一)</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/41">初识web可视化之threeJS (二)</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/50">初识web可视化之threeJS (三)</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/54">初识web可视化之threeJS (四）</a>
 
 ### Mongodb
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/47">Mongodb的内存回收办法</a>
