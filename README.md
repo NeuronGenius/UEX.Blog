@@ -81,8 +81,10 @@
 ### Sass
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/57">Sass的基础和进阶</a>
 
-### Codewars
+### TypeScript
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/62">深入理解 TypeScript</a>
 
+### Codewars
 - <a href="//github.com/NeuronGenius/client/issues/6">Codewars 字符串数字排序</a>
 - <a href="//github.com/NeuronGenius/client/issues/10">Codewars 种类名称加一 </a>
 - <a href="//github.com/NeuronGenius/client/issues/8">Codewars 括号匹配 </a>
