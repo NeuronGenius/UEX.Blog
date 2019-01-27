@@ -5,7 +5,7 @@
 #### 其中 UE 是 User End 的缩写，X 代表我们在前端领域之外，更加重视前端工程师在横向（全端）以及纵向（全栈）的能力
 
 ### Web
-
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/55">模块化语法理解</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/16">前端各种循环用法总结</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/18">老生常谈的 EventLoop</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/19">设计模式—javascript 单例模式</a>
@@ -28,6 +28,9 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/37">React常用组件模式</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/45">React + Next.js + antd-mobile 服务端渲染实践</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/48">react新生命周期的使用</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/56">js之正则匹配</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/58">React.lazy()懒加载组件</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/60">React hooks初步了解</a>
 
 ### App
 
@@ -49,6 +52,9 @@
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/32">初尝黑苹果（一）</a>
 
+### Windows
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/53">nssm在windows上部署nodejs项目</a>
+
 ### 测试
 
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/13">前端自动化测试简介</a>
@@ -64,9 +70,21 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/35">初识web可视化之threeJS (一)</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/41">初识web可视化之threeJS (二)</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/50">初识web可视化之threeJS (三)</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/54">初识web可视化之threeJS (四）</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/59">初识web可视化之threeJS (五）</a>
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/61">初识web可视化之threeJS (六）</a>
+
+
+### Mongodb
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/47">Mongodb的内存回收办法</a>
+
+### Sass
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/57">Sass的基础和进阶</a>
+
+### TypeScript
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/62">深入理解 TypeScript</a>
 
 ### Codewars
-
 - <a href="//github.com/NeuronGenius/client/issues/6">Codewars 字符串数字排序</a>
 - <a href="//github.com/NeuronGenius/client/issues/10">Codewars 种类名称加一 </a>
 - <a href="//github.com/NeuronGenius/client/issues/8">Codewars 括号匹配 </a>
