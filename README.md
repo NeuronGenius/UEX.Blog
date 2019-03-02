@@ -85,6 +85,9 @@
 ### TypeScript
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/62">深入理解 TypeScript</a>
 
+### GraphQL
+- <a href="//github.com/NeuronGenius/UEX.Blog/issues/64">GraphQL入门</a>
+
 ### Codewars
 - <a href="//github.com/NeuronGenius/client/issues/6">Codewars 字符串数字排序</a>
 - <a href="//github.com/NeuronGenius/client/issues/10">Codewars 种类名称加一 </a>
