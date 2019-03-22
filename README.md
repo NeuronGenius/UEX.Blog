@@ -43,6 +43,7 @@
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/12">npm 包管理工具的使用</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/26">打造属于自己的 node cli 工具(1) </a>
 - <a href="https://github.com/NeuronGenius/UEX.Blog/issues/30">打造属于自己的 node cli 工具(2)</a>
+- <a href="https://github.com/NeuronGenius/UEX.Blog/issues/65">单点登录SSO</a>
 
 ### Linux
 
