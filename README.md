@@ -4,6 +4,32 @@
 
 #### 其中 UE 是 User End 的缩写，X 代表我们在前端领域之外，更加重视前端工程师在横向（全端）以及纵向（全栈）的能力
 
+### 分享
+
+- 第一期: 胡艺兴-[nodejs 爬虫](http://note.youdao.com/noteshare?id=b1cae2b45811625b76c1adb77f79cb3f)
+
+- 第二期: 谢海龙-[初识 web 安全之 XSS 与 CRSF](https://-github.com/NeuronGenius/UEX.Blog/issues/4)
+
+- 第三期: 黄莹-[初探 Recompose](https://github.com/NeuronGenius/UEX.Blog/tree/master/examples/recompose)
+
+- 第四期: 邱英-[javascript 常见的设计模式](https://github.com/NeuronGenius/UEX.Blog/issues/20)
+
+- 第五期: 暴炜楠-[benchmark](https://github.com/NeverMore-KL/benchmark)
+
+- 第六期: 暴炜楠-[前端知识题](https://nevermore-kl.gitbook.io/nevermore/fe)
+
+- 第七期: 李涛-[数据结构分享](https://share1.gitbook.io/project/)
+
+- 第八期: 孟元-[react hooks](https://github.com/NeuronGenius/UEX.Blog/issues/60)
+
+- 第九期: 沈鹏-[Typescript](https://note.youdao.com/ynoteshare1/index.html?id=6ec60882653a74ae1f8e4cb566e639a3&type=note#/) 和
+  [GraphQL](http://note.youdao.com/noteshare?id=a2eb7d3fa11b424f1fa9b36aa68b240d)
+
+- 第十期: 唐旭东-[单点登陆 SSO](https://note.youdao.com/ynoteshare1/index.html?id=5d88b5f5294e2668564e9a01d267e057&type=note) 和
+  [OAuth2](https://note.youdao.com/ynoteshare1/index.html?id=883122bad94ecc222f2f5a0652b2f2e7&type=note)
+  
+- 第十一期: 暴炜楠-[Hooks Plus](https://github.com/NeverMore-KL/hooks)
+
 ### Web
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/55">模块化语法理解</a>
 - <a href="//github.com/NeuronGenius/UEX.Blog/issues/16">前端各种循环用法总结</a>
